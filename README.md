@@ -25,7 +25,7 @@
 
    *oh , no， 放错了, 下面才是我ikun的盛世美颜*
 
-![](./doc/img/c9fcc3cec3fdfc037cce0487d83f8794a4c2265f.jpg)
+![](doc/img/6.jpg)
 
 
 
@@ -79,21 +79,19 @@
 
       1. 与篮球亲密接吻
 
-      ![](./doc/img/29381f30e924b899a23b9e70a7916b910b7bf68b.jpeg)
+         ![](doc/img/5.jpeg)
 
       2. 虚晃运球
 
-            ![](./doc/img/caef76094b36acaf6e0c54b3b54efb1400e99c29.jpeg)
-
-      ​         
+         ![](doc/img/7.jpeg)
 
       3. 白带引力异常
 
-         ![](./doc/img/2019-04-13 14-49-38屏幕截图.png)
+         ![](doc/img/1.png)
 
       4. 鸡你太美
 
-         ![](./doc/img/2019-04-13 14-53-11屏幕截图.png)
+         ![](doc/img/2.png)
 
 7. 网友爱 (love and peace) 的点评
 
@@ -257,6 +255,6 @@
 
    `下载好的视频生成在output文件夹当中, 其中download.list表示下载的av_id,貌似视频还自带了弹幕?`
 
-   ![](./doc/img/2019-04-13 15-28-35屏幕截图.png)
+   ![](doc/img/3.png)
 
-   ![](./doc/img/2019-04-13 15-31-31屏幕截图.png)
+   ![](doc/img/4.png)
